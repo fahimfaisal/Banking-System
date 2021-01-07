@@ -1,0 +1,26 @@
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.exe
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.deps.json
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.json
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.dev.json
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.dll
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.pdb
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csprojAssemblyReference.cache
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csproj.CoreCompileInputs.cache
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfoInputs.cache
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfo.cs
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.dll
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.pdb
+D:\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.genruntimeconfig.cache
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.exe
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.deps.json
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.json
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.dev.json
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.dll
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.pdb
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csprojAssemblyReference.cache
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csproj.CoreCompileInputs.cache
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfoInputs.cache
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfo.cs
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.dll
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.pdb
+D:\NAVID\LOCAL DISK D\UNI\Object Oriented programming SIT 232\Prac 7.1P\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.genruntimeconfig.cache
